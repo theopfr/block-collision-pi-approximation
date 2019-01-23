@@ -3,10 +3,10 @@
 written in Processing
 
 Concept:
-counting the collsions bewtween the block1 with higher mass and block2; counter shows the x first digits of pi
+counting the collsions bewtween two blocks (rect1, rect2); counter shows the x first digits of pi
 
-mass(block1) = 1, mass(block2) = 1  => 3                                                                                                   
-mass(block1) = 100, mass(block2) = 1  => 31                                                                                               
-mass(block1) = 10000, mass(block2) = 1  => 314                                                                                             
-mass(block1) = 1000000, mass(block2) = 1  => 3141
+mass(rect2) = 1, mass(rect1) = 1  => 3                                                                                                   
+mass(rect2) = 100, mass(rect1) = 1  => 31                                                                                               
+mass(rect2) = 10000, mass(rect1) = 1  => 314                                                                                             
+mass(rect2) = 1000000, mass(rect1) = 1  => 3141
 ...
